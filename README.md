@@ -5,3 +5,5 @@ developed as part of bean canners 2023, a weekend hackathon/game jam between fri
 
 # Play the alpha build here
 https://saltyseadawg.itch.io/frog-date
+
+[Splash screen](splashscreen.png)
